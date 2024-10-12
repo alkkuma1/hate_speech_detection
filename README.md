@@ -1,6 +1,6 @@
-# hate_speech_detection
+# Hate Speech Detection
 
-This repository contains ny experiments in the space of hate speech analysis. I have used 3 datasets for my analysis:
+This repository contains my experiments in the space of hate speech analysis. I have used 3 datasets for my analysis:
 
 Dataset 1: Davidson's Dataset: https://www.kaggle.com/datasets/eldrich/hate-speech-offensive-tweets-by-davidson-et-al
 
